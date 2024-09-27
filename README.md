@@ -54,10 +54,10 @@ To add a new Sokoban puzzle:
 
 Create a new text file in the warehouses/ folder (e.g., warehouse_new.txt).
 Format the file using the following characters:
-# for walls
+#for walls
 . for target locations
-$ for boxes
-@ for the worker
+$for boxes
+@for the worker
 
 Example puzzle:
 
@@ -68,6 +68,3 @@ Example puzzle:
 ######
 
 Load the new puzzle in the GUI or test it with the solver.
-
-
-
