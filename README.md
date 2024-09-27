@@ -69,3 +69,5 @@ Example puzzle:
 
 Load the new puzzle in the GUI or test it with the solver.
 
+
+
